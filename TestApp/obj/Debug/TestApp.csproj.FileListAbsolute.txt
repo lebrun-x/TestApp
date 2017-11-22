@@ -1,0 +1,13 @@
+c:\users\lebrunx\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Debug\TestApp.exe.config
+c:\users\lebrunx\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Debug\TestApp.exe
+c:\users\lebrunx\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Debug\TestApp.pdb
+c:\users\lebrunx\documents\visual studio 2017\Projects\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+c:\users\lebrunx\documents\visual studio 2017\Projects\TestApp\TestApp\obj\Debug\TestApp.exe
+c:\users\lebrunx\documents\visual studio 2017\Projects\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\50050608\Documents\Project\Perso\Projects\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\50050608\Documents\Project\Perso\Projects\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\50050608\Documents\Project\Perso\Projects\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\50050608\Documents\Project\Perso\Projects\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\50050608\Documents\Project\Perso\Projects\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\50050608\Documents\Project\Perso\Projects\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\50050608\Documents\Project\Perso\Projects\TestApp\TestApp\obj\Debug\TestApp.pdb
