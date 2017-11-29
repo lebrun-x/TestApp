@@ -10,6 +10,7 @@ namespace TestApp.App
     {
         static void Main(string[] args)
         {
+            //on instancie le jeu et on le lance
             Jeu jeu = new Jeu();
             jeu.LaunchGame();
         }
