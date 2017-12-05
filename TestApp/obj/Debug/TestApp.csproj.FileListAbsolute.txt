@@ -11,3 +11,10 @@ C:\Users\50050608\Documents\Project\Perso\Projects\TestApp\TestApp\obj\Debug\Tes
 C:\Users\50050608\Documents\Project\Perso\Projects\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
 C:\Users\50050608\Documents\Project\Perso\Projects\TestApp\TestApp\obj\Debug\TestApp.exe
 C:\Users\50050608\Documents\Project\Perso\Projects\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\50050608\Documents\Project\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\50050608\Documents\Project\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\50050608\Documents\Project\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\50050608\Documents\Project\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\50050608\Documents\Project\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\50050608\Documents\Project\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\50050608\Documents\Project\TestApp\TestApp\obj\Debug\TestApp.pdb

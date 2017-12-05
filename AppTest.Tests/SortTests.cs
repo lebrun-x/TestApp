@@ -31,9 +31,9 @@ namespace TestApp.Tests
         }
 
         [TestMethod]
-        public void Vampimoule_GetCost_Value7()
+        public void Vampimoule_GetCost_Value6()
         {
-            Assert.AreEqual(jeu.Get_ListSort().ElementAt(3).GetCost(), 7);
+            Assert.AreEqual(jeu.Get_ListSort().ElementAt(3).GetCost(), 6);
         }
     }
 }
